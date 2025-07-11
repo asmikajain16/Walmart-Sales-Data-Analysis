@@ -49,7 +49,7 @@ Strategic promotions can be focused on high-performing hours and product lines.
 
 🔧 How to Run
 Clone this repo:
-git clone https://github.com/yourusername/walmart-sales-analysis.git
+git clone https://github.com/asmikajain16/walmart-sales-analysis.git
 Open the .ipynb notebook in Jupyter or VS Code.
 Run the notebook step-by-step.
 Ensure the dataset is placed in the same directory as the notebook.
